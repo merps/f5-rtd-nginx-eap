@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "F5 Cloud Recommendations - UWA"
+classname = "F5 Essential App Protect - NGNIX Consolidation"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_url = "https://github.com/merps/f5-rtd-uwa"
+github_url = "https://github.com/merps/f5-rtd-nginx-eap"
 
 git_branch_name = 'master'
 
