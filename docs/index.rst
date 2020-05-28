@@ -13,6 +13,10 @@ Welcome to f5-rtd-nginx-eap's documentation!
 
    docs/*
    docs*/* 
+   images/* 
+   images*/* 
+   examples/* 
+   examples*/* 
 
 Indices and tables
 ==================
