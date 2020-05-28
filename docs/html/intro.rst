@@ -2,7 +2,7 @@
    :titlesonly:
    :maxdepth: 4
 
-
+================================================
 Essential App Protect NGINX Redirect Example
 **(WIP)**
 ================================================
