@@ -13,18 +13,18 @@ This document is a theoretical exercise in the consolidation of like Application
 environments that are generally seen across application stacks for the purpose of testing all 
 stages of the application lifecycle, for example;
 
-* _Non-Production Environments_
+* *Non-Production Environments*
 
   * User Acceptance Testing (UAT)
   * Quality Acceptance Testing (QAT)
   * System Integration Testing (SIT)
 
-* _Development Environments_
+* *Development Environments*
 
   * Development (dev)
   * Testing (tst)
 
-* _Production Environments_
+* *Production Environments*
 
   * Blue/Green deployment stacks
   * production stacks
