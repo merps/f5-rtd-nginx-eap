@@ -3,7 +3,7 @@
    :maxdepth: 4
 
 ================================================
-Essential App Protect NGINX FQDN Recommendations
+Essential App Protect NGINX Redirect Example
 ================================================
 
 Summary
@@ -14,15 +14,18 @@ environments that are generally seen across application stacks for the purpose o
 stages of the application lifecycle, for example;
 
 * _Non-Production Environments_
+
   * User Acceptance Testing (UAT)
   * Quality Acceptance Testing (QAT)
   * System Integration Testing (SIT)
 
 * _Development Environments_
+
   * Development (dev)
   * Testing (tst)
 
 * _Production Environments_
+
   * Blue/Green deployment stacks
   * production stacks
 
