@@ -11,12 +11,13 @@ Welcome to f5-rtd-nginx-eap's documentation!
    :caption: Contents:
    :glob:
 
-   html/*
+   html/intro
    html*/* 
    images/* 
    images*/* 
    examples/* 
    examples*/* 
+
 
 Indices and tables
 ==================
