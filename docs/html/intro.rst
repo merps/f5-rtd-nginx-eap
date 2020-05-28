@@ -1,5 +1,5 @@
-Essential App Protect NGINX Redirect Example
-**(WIP)**
+================================================
+Essential App Protect NGINX Redirect Example **(WIP)**
 ================================================
 
 
