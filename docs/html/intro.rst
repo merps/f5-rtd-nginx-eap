@@ -1,4 +1,3 @@
-================================================
 Essential App Protect NGINX Redirect Example
 **(WIP)**
 ================================================
@@ -14,15 +13,18 @@ purpose of testing all stages of the application life cycle.
 Broad examples could include the following:
 
 - *Non-Production Environments*
+
   - User Acceptance Testing (UAT)
   - Quality Acceptance Testing (QAT)
   - System Integration Testing (SIT)
 
 - *Development Environments*
+
   - Development (dev)
   - Testing (tst)
 
 - *Production Environments*
+
   - Blue/Green deployment stacks
   - production stacks
 
@@ -33,5 +35,5 @@ applications and the simplification of EAP application policies for ease of mana
 .. toctree::
    :titlesonly:
    :maxdepth: 4
-
-   deployment_example
+   :caption: Contents:
+   :glob:
