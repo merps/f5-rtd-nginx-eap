@@ -11,9 +11,8 @@ Welcome to f5-rtd-nginx-eap's documentation!
    :caption: Contents:
    :glob:
 
-   *
-   docs/*
-   docs*/* 
+   html/*
+   html*/* 
    images/* 
    images*/* 
    examples/* 
