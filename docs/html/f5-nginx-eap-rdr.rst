@@ -35,3 +35,7 @@ applications and reducation is Essental App Protect (EAP) endpoint configuration
 
 Deployment Example
 ------------------------------------------------
+
+.. image:: ../images/eap_flow.svg
+  :width: 600
+  :alt: EAP Consolidated Flow
