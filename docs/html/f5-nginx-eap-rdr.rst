@@ -37,5 +37,5 @@ Deployment Example
 ------------------------------------------------
 
 .. image:: ../images/eap_flow.svg
-  :width: 600
+  :width: 800
   :alt: EAP Consolidated Flow
